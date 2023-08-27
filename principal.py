@@ -31,6 +31,6 @@ for i in range(s+1):
             else:
                 print(str(c.hora.valor)+":"+str(c.minuto.valor)+":"+str(c.segundo.valor))
     if  i==s:
-        print("\n\tCONTEO FINALIZADO\n")
-        print("\t◥------◥\n\tl ● ▄ ◉ l ѠOOƑ!\n\tl‿/ʊ\‿l\n\tl══o══l\n\t︳ ︳︳ l⊃\n\tఋ︵ ఋ\n")
+        print("\n\tFin del conteo\n")
+        print("\t ／l、\n\t（ﾟ､ ｡７\n\t⠀l、ﾞ~ヽ\n\t じし(_, )ノ\n")
     c.avanzar()
